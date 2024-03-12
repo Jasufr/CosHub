@@ -1,8 +1,7 @@
 # 👘 Coshub
 
 Project description goes here
-
-https://github.com/Jasufr/CosHub/assets/125636129/d3f263d3-1920-4e2d-8979-2ac8d9506d30
+![Capture d'écran 2024-03-12 153742](https://github.com/Jasufr/CosHub/assets/125636129/a336a972-a447-456d-9e82-05bda61b8801)
 <br>
 App home: https://airbnb-rubykytam-6010339fff39.herokuapp.com/
    
