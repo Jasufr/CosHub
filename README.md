@@ -1,6 +1,6 @@
 # 👘 Coshub
 
-Project description goes here
+Cosplay rentals market-place website.
 
 ![Capture d'écran 2024-03-12 153742](https://github.com/Jasufr/CosHub/assets/125636129/a336a972-a447-456d-9e82-05bda61b8801)
 <br>
