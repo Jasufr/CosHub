@@ -1,6 +1,7 @@
 # 👘 Coshub
 
 Project description goes here
+
 ![Capture d'écran 2024-03-12 153742](https://github.com/Jasufr/CosHub/assets/125636129/a336a972-a447-456d-9e82-05bda61b8801)
 <br>
 App home: https://airbnb-rubykytam-6010339fff39.herokuapp.com/
@@ -44,14 +45,8 @@ rails s
 - [Bootstrap](https://getbootstrap.com/) — Styling
 - [Figma](https://www.figma.com) — Prototyping
 
-## Acknowledgements
-Inspired by Jane Mount's [Bibliophile](https://www.amazon.com/Bibliophile-Illustrated-Miscellany-Jane-Mount/dp/1452167230) and a story my father once told me: "Why do we keep books? ... We keep books because they remind us of the new perspectives and lessons we learned".
-
 ## Team Members
-- [Douglas Berkley](https://www.linkedin.com/in/dougberkley/)
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-This project is licensed under the MIT License
+- [Ruby Tam](https://github.com/rubykytam)
+- [Nick Westbrook](https://github.com/ntw3001)
+- [Nikita Nagras](https://github.com/Nikita-Nagras)
+- [Justin Etienne](https://github.com/Jasufr)
